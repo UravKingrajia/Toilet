@@ -1,2 +1,0 @@
-# Toilet
-Created with CodeSandbox
